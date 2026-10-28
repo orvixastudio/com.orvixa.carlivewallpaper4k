@@ -3,205 +3,205 @@
     {
       "category_id": 10,
       "category_name": "Supercars",
-      "category_image": "10.jpg",
+      "category_image": "10.webp",
       "total_wallpaper": 500
     },
     {
       "category_id": 15,
       "category_name": "Dark Version",
-      "category_image": "15.jpg",
+      "category_image": "15.webp",
       "total_wallpaper": 584
     },
     {
       "category_id": 20,
       "category_name": "Acurra",
-      "category_image": "20.jpg",
+      "category_image": "20.webp",
       "total_wallpaper": 34
     },
     {
       "category_id": 25,
       "category_name": "Alfa Romeo",
-      "category_image": "25.jpg",
+      "category_image": "25.webp",
       "total_wallpaper": 33
     },
     {
       "category_id": 30,
       "category_name": "Ashton Martin",
-      "category_image": "30.jpg",
+      "category_image": "30.webp",
       "total_wallpaper": 127
     },
     {
       "category_id": 35,
       "category_name": "Audi",
-      "category_image": "35.jpg",
+      "category_image": "35.webp",
       "total_wallpaper": 264
     },
     {
       "category_id": 40,
       "category_name": "Bentley",
-      "category_image": "40.jpg",
+      "category_image": "40.webp",
       "total_wallpaper": 97
     },
     {
       "category_id": 45,
       "category_name": "BMW",
-      "category_image": "45.jpg",
+      "category_image": "45.webp",
       "total_wallpaper": 396
     },
     {
       "category_id": 50,
       "category_name": "Brabus",
-      "category_image": "50.jpg",
+      "category_image": "50.webp",
       "total_wallpaper": 8
     },
     {
       "category_id": 55,
       "category_name": "Bugatti",
-      "category_image": "55.jpg",
+      "category_image": "55.webp",
       "total_wallpaper": 160
     },
     {
       "category_id": 60,
       "category_name": "Cadillac",
-      "category_image": "60.jpg",
+      "category_image": "60.webp",
       "total_wallpaper": 11
     },
     {
       "category_id": 70,
       "category_name": "Chevrolet",
-      "category_image": "70.jpg",
+      "category_image": "70.webp",
       "total_wallpaper": 137
     },
     {
       "category_id": 75,
       "category_name": "Dodge",
-      "category_image": "75.jpg",
+      "category_image": "75.webp",
       "total_wallpaper": 16
     },
     {
       "category_id": 80,
       "category_name": "Ferarri",
-      "category_image": "80.jpg",
+      "category_image": "80.webp",
       "total_wallpaper": 135
     },
     {
       "category_id": 85,
       "category_name": "Ford",
-      "category_image": "85.jpg",
+      "category_image": "85.webp",
       "total_wallpaper": 251
     },
     {
       "category_id": 90,
       "category_name": "Honda",
-      "category_image": "90.jpg",
+      "category_image": "90.webp",
       "total_wallpaper": 17
     },
     {
       "category_id": 95,
       "category_name": "Jaguar",
-      "category_image": "95.jpg",
+      "category_image": "95.webp",
       "total_wallpaper": 16
     },
     {
       "category_id": 100,
       "category_name": "Jeep",
-      "category_image": "100.jpg",
+      "category_image": "100.webp",
       "total_wallpaper": 13
     },
     {
       "category_id": 105,
       "category_name": "Kia",
-      "category_image": "105.jpg",
+      "category_image": "105.webp",
       "total_wallpaper": 3
     },
     {
       "category_id": 110,
       "category_name": "Koenigsegg",
-      "category_image": "110.jpg",
+      "category_image": "110.webp",
       "total_wallpaper": 5
     },
     {
       "category_id": 115,
       "category_name": "Lamborghini",
-      "category_image": "115.jpg",
+      "category_image": "115.webp",
       "total_wallpaper": 288
     },
     {
       "category_id": 120,
       "category_name": "Lotus",
-      "category_image": "120.jpg",
+      "category_image": "120.webp",
       "total_wallpaper": 8
     },
     {
       "category_id": 125,
       "category_name": "Maserati",
-      "category_image": "125.jpg",
+      "category_image": "125.webp",
       "total_wallpaper": 6
     },
     {
       "category_id": 130,
       "category_name": "McLaren",
-      "category_image": "130.jpg",
+      "category_image": "130.webp",
       "total_wallpaper": 160
     },
     {
       "category_id": 135,
       "category_name": "Mercedesbenz",
-      "category_image": "135.jpg",
+      "category_image": "135.webp",
       "total_wallpaper": 163
     },
     {
       "category_id": 140,
       "category_name": "Nevera",
-      "category_image": "140.jpg",
+      "category_image": "140.webp",
       "total_wallpaper": 5
     },
     {
       "category_id": 145,
       "category_name": "Nissan",
-      "category_image": "145.jpg",
+      "category_image": "145.webp",
       "total_wallpaper": 11
     },
     {
       "category_id": 150,
       "category_name": "Peugeot",
-      "category_image": "150.jpg",
+      "category_image": "150.webp",
       "total_wallpaper": 6
     },
     {
       "category_id": 155,
       "category_name": "Porsche",
-      "category_image": "155.jpg",
+      "category_image": "155.webp",
       "total_wallpaper": 163
     },
     {
       "category_id": 160,
       "category_name": "Rolls Royce",
-      "category_image": "160.jpg",
+      "category_image": "160.webp",
       "total_wallpaper": 88
     },
     {
       "category_id": 165,
       "category_name": "Renault",
-      "category_image": "165.jpg",
+      "category_image": "165.webp",
       "total_wallpaper": 12
     },
     {
       "category_id": 170,
       "category_name": "Toyota",
-      "category_image": "170.jpg",
+      "category_image": "170.webp",
       "total_wallpaper": 42
     },
     {
       "category_id": 175,
       "category_name": "Volvo",
-      "category_image": "175.jpg",
+      "category_image": "175.webp",
       "total_wallpaper": 5
     },
     {
       "category_id": 180,
       "category_name": "VW",
-      "category_image": "180.jpg",
+      "category_image": "180.webp",
       "total_wallpaper": 14
     }
   ]
