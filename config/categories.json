@@ -1,6 +1,12 @@
 {
   "categories": [
     {
+      "category_id": 2,
+      "category_name": "Live Wallpaper",
+      "category_image": "2.webp",
+      "total_wallpaper": 16
+    },
+    {
       "category_id": 10,
       "category_name": "Supercars",
       "category_image": "10.webp",
