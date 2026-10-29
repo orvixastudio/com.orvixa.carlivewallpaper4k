@@ -2,7 +2,7 @@
   "apps": {
     "status": true,
     "featured_categories": "Live Wallpaper,Supercars,Dark Version",
-    "exclude_categories": "Acurra,Alfa Romeo,Ashton Martin,Audi,Bentley,BMW,Brabus,Bugatti,Cadillac,Chevrolet,Dodge,Ferarri,Ford,Honda,Jaguar,Jeep,Kia,Koenigsegg,Lamborghini,Lotus,Maserati,McLaren,Mercedesbenz,Nevera,Nissan,Peugeot,Porsche,Rolls Royce,Renault,Toyota,Volvo,VW",
+    "excluded_categories": "Acurra,Alfa Romeo,Ashton Martin,Audi,Bentley,BMW,Brabus,Bugatti,Cadillac,Chevrolet,Dodge,Ferarri,Ford,Honda,Jaguar,Jeep,Kia,Koenigsegg,Lamborghini,Lotus,Maserati,McLaren,Mercedesbenz,Nevera,Nissan,Peugeot,Porsche,Rolls Royce,Renault,Toyota,Volvo,VW",
     "show_wallpaper_name": true,
     "show_wallpaper_category": false,
     "show_favorite_button_in_wallpaper_list": true,
